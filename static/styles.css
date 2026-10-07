@@ -42,6 +42,11 @@ nav li {
     padding: 20px;
 }
 
+.main-content-ul {
+    list-style-position: inside;
+    padding-left: 20px;
+}
+
 /* Footer Styles */
 footer {
     background-color: gray;
